@@ -1,0 +1,3131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-13 03:12+0000\n"
+"PO-Revision-Date: 2019-08-26 20:32+0000\n"
+"Last-Translator: cuponfy <augusto.comunica@gmail.com>\n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#: 404.php:30
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Parece que nada foi encontrado no local. Talvez tente um dos links abaixo ou "
+"de uma pesquisa?"
+
+#: 404.php:35 inc/widgets/popular-stores.php:113
+msgid "Popular Stores"
+msgstr "Lojas Populares"
+
+#: 404.php:42
+msgid "Recent coupons"
+msgstr "Cupons Recentes"
+
+#. Name of the template
+#. Name of the template
+msgid "Store Listing by Alphabet"
+msgstr "Lista de lojas em ordem alfabética"
+
+#: archive-store.php:68 templates/store-az.php:86
+msgid "0 - 9"
+msgstr "0 - 9"
+
+#: archive-store.php:83 templates/store-az.php:100
+msgid "Featured Stores"
+msgstr "Destaque Lojas"
+
+#: archive-store.php:108 templates/store-az.php:125
+#, php-format
+msgid "Stores - %s"
+msgstr "Lojas - %s"
+
+#: archive-store.php:123 templates/store-az.php:140
+msgid "Stores - 0-9"
+msgstr "Lojas - 0-9"
+
+#: comments.php:25
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr "Um pensamento sobre &ldquo;%2$s&rdquo;"
+
+#: comments.php:48
+msgid "Comment navigation"
+msgstr "Comentário de navegação"
+
+#: comments.php:51
+msgid "Older Comments"
+msgstr "Antigo Comentários"
+
+#: comments.php:55
+msgid "Newer Comments"
+msgstr "Mais Recente Comentários"
+
+#: comments.php:72 loop/coupon-meta.php:58
+msgid "Comments are closed."
+msgstr "Comentários estão fechados."
+
+#: comments.php:92
+#, php-format
+msgid "Required fields are marked %s"
+msgstr "Campos obrigatórios são marcados %s"
+
+#: comments.php:99 inc/widgets/categories.php:157
+msgid "Name"
+msgstr "Nome"
+
+#: comments.php:104 single-coupon.php:132 loop/coupon-meta.php:12
+#: inc/config/option-config.php:1274
+msgid "Email"
+msgstr "E-mail"
+
+#: comments.php:108
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:112
+msgctxt "noun"
+msgid "Comment"
+msgstr "Comentário"
+
+#: comments.php:118
+#, php-format
+msgid "You must be %s to post a comment."
+msgstr "Você tem que ser %s para postar um comentário."
+
+#: comments.php:119
+msgid "logged in"
+msgstr "conectado"
+
+#: comments.php:125
+#, php-format
+msgid "Logged in as %1$s. %2$s"
+msgstr "Conectado como %1$s. %2$s"
+
+#: comments.php:127
+msgid "Log out of this account"
+msgstr "Log out desta conta"
+
+#: comments.php:129
+msgid "Your email address will not be published."
+msgstr "O seu endereço de email não será publicado."
+
+#: comments.php:142 loop/coupon-meta.php:60
+msgid "Let other know how much you saved"
+msgstr "Deixar que os outros saibam o quanto você guardados"
+
+#: content-none.php:2
+msgid "Nothing Found"
+msgstr "Não Encontrou Nada"
+
+#: content-none.php:7
+#, php-format
+msgid "Ready to publish your first post? %s."
+msgstr "Pronto para publicar seu primeiro post? %s."
+
+#: content-none.php:10
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Desculpe, mas nada de correspondência de termos de pesquisa. Por favor, "
+"tente novamente com algumas palavras-chave diferentes."
+
+#: content-none.php:15
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Parece que pode&rsquo;t encontrar o que você&rsquo;re procurando. Talvez a "
+"pesquisa pode ajudar."
+
+#: coupon-comments.php:32 inc/template-tags.php:220
+msgid "Reply"
+msgstr "Responder"
+
+#: coupon-comments.php:40 taxonomy-coupon_category.php:131
+#: taxonomy-coupon_store.php:128 taxonomy-coupon_store.php:166
+#: taxonomy-coupon_store.php:204 inc/widgets/coupons.php:134
+#: inc/widgets/coupons.php:179 inc/widgets/coupons.php:225
+msgid "Loading..."
+msgstr "Carregando..."
+
+#: coupon-comments.php:40
+msgid "Load More Comments"
+msgstr "Carregar Mais Comentários"
+
+#: coupon-comments.php:49
+msgid "No comment, be the first."
+msgstr "Nenhum comentário, seja o primeiro."
+
+#: footer.php:63
+#, php-format
+msgid "Copyright &copy; %1$s %2$s. All Rights Reserved. "
+msgstr "Copyright &copy; %1$s %2$s. Todos Os Direitos Reservados. "
+
+#: footer.php:70
+#, php-format
+msgid "WordPress Coupon Theme by %s"
+msgstr "WordPress Cupom Tema por %s"
+
+#: functions.php:78 inc/config/option-config.php:317
+msgid "Primary"
+msgstr "Principal"
+
+#: functions.php:79 inc/config/option-config.php:1120
+msgid "Footer"
+msgstr "Rodapé"
+
+#: functions.php:104
+msgid "Blog Sidebar"
+msgstr "Barra Lateral Do Blog"
+
+#: functions.php:113
+msgid "Page Sidebar"
+msgstr "Página Da Barra Lateral"
+
+#: functions.php:123
+msgid "Coupon Category Sidebar"
+msgstr "Categoria De Cupons Lateral"
+
+#: functions.php:125
+msgid "The sidebar will display on coupon category, tag page."
+msgstr "A barra lateral irá apresentar no cupom de categoria, página de tags."
+
+#: functions.php:133
+msgid "Store Sidebar"
+msgstr "Store Lateral"
+
+#: functions.php:143
+msgid "WooCommerce Sidebar"
+msgstr "WooCommerce Lateral"
+
+#: functions.php:153
+msgid "Footer 1"
+msgstr "Rodapé 1"
+
+#: functions.php:162
+msgid "Footer 2"
+msgstr "Rodapé 2"
+
+#: functions.php:171
+msgid "Footer 3"
+msgstr "Rodapé 3"
+
+#: functions.php:180
+msgid "Footer 4"
+msgstr "Rodapé 4"
+
+#: functions.php:191
+msgid "Frontpage Before Main Content"
+msgstr "Frontpage Antes Conteúdo Principal"
+
+#: functions.php:193 functions.php:203 functions.php:213 functions.php:222
+msgid "This sidebar display on frontpage template"
+msgstr "Este lateral apresentar no modelo do frontpage"
+
+#: functions.php:201
+msgid "Frontpage Main Content"
+msgstr "Frontpage Conteúdo Principal"
+
+#: functions.php:211
+msgid "Frontpage Main Sidebar"
+msgstr "Frontpage Barra Lateral Principal"
+
+#: functions.php:220
+msgid "Frontpage After Main Content"
+msgstr "Frontpage Depois Do Conteúdo Principal"
+
+#: functions.php:260
+msgid "Favorited"
+msgstr "Favoritei"
+
+#: functions.php:261 taxonomy-coupon_store.php:43
+msgid "Favorite This Store"
+msgstr "Favoritar esta loja"
+
+#: functions.php:262
+msgid "Please login to continue..."
+msgstr "Por favor faça login para continuar..."
+
+#: functions.php:263 single-coupon.php:110 loop/coupon-modal.php:62
+#: loop/loop-coupon-cat.php:108 loop/loop-coupon.php:103
+msgid "Save this coupon"
+msgstr "Salvar este cupom"
+
+#: functions.php:264
+msgid "Coupon Saved"
+msgstr "Cupom Guardados"
+
+#: functions.php:265
+msgid "No results..."
+msgstr "Nenhum resultado..."
+
+#: functions.php:266
+msgid "Copied"
+msgstr "Copiado"
+
+#: functions.php:267 loop/coupon-modal.php:49
+msgid "Copy"
+msgstr "Copiar"
+
+#: header.php:63
+msgid "Search stores for coupons, deals ..."
+msgstr "Pesquisa lojas cupons, ofertas ..."
+
+#: header.php:65
+msgid "Search"
+msgstr "Search"
+
+#: header.php:87
+msgid "Top Searches:"
+msgstr "Mais pesquisados:"
+
+#: header.php:105
+msgid "Skip to content"
+msgstr "Pular para o conteúdo"
+
+#: single-coupon.php:68 loop/loop-coupon-cat.php:104 loop/loop-coupon.php:40
+#: inc/user/user.php:255
+#, php-format
+msgid "Expires %s"
+msgstr "Expira %s"
+
+#: single-coupon.php:81 loop/loop-coupon-cat.php:75 loop/loop-coupon.php:74
+msgid "Get Deal"
+msgstr "Ver Oferta"
+
+#: single-coupon.php:86 loop/loop-coupon-cat.php:80 loop/loop-coupon.php:79
+msgid "Print Coupon"
+msgstr "Imprimir Cupom"
+
+#: single-coupon.php:95 loop/loop-coupon-cat.php:89 loop/loop-coupon.php:88
+msgid "Click to copy & open site"
+msgstr "Clique para copiar e abrir o site"
+
+#: single-coupon.php:101 loop/loop-coupon-cat.php:95 loop/loop-coupon.php:94
+msgid "Get Code"
+msgstr "Ver Cupom"
+
+#: single-coupon.php:108 loop/coupon-modal.php:60 loop/loop-coupon.php:101
+msgid "This worked"
+msgstr "Funcionou!"
+
+#: single-coupon.php:109 loop/coupon-modal.php:61 loop/loop-coupon.php:102
+msgid "It didn't work"
+msgstr "Não funcionou!"
+
+#: single-coupon.php:112 loop/loop-coupon.php:105
+#, php-format
+msgid "%s%% Success"
+msgstr "%s%% de Sucesso"
+
+#: single-coupon.php:130 loop/coupon-meta.php:10 loop/coupon-modal.php:90
+#, php-format
+msgid "%1$s Used - %2$s Today"
+msgstr "%1$s Usado - %2$s Hoje"
+
+#: single-coupon.php:131 loop/coupon-meta.php:11
+msgid "Share it with your friend"
+msgstr "Compartilhá-lo com seus amigos"
+
+#: single-coupon.php:131 loop/coupon-meta.php:11 loop/coupon-modal.php:91
+msgid "Share"
+msgstr "Compartilhar"
+
+#: single-coupon.php:132 single-coupon.php:159 loop/coupon-meta.php:12
+#: loop/coupon-meta.php:40
+msgid "Send this coupon to an email"
+msgstr "Envie este cupão para um e-mail"
+
+#: single-coupon.php:136 loop/coupon-meta.php:17
+msgid "Share it with your friends"
+msgstr "Compartilhá-lo com seus amigos"
+
+#: single-coupon.php:161 loop/coupon-meta.php:42
+msgid "Email address ..."
+msgstr "Endereço de e-mail ..."
+
+#: single-coupon.php:163 loop/coupon-meta.php:44
+msgid "Send"
+msgstr "Enviar"
+
+#: single-coupon.php:165 loop/coupon-meta.php:46
+msgid ""
+"This is not a email subscription service. Your email (or your friend's email)"
+" will only be used to send this coupon."
+msgstr ""
+"Este não é um serviço de assinatura de e-mail. Seu e-mail (ou seu amigo's e-"
+"mail) apenas será usado para enviar este cupom."
+
+#: single-coupon.php:185 inc/config/option-config.php:1014
+msgid "Most popular {store} coupons."
+msgstr "Mais populares {store} cupons."
+
+#: single-coupon.php:253
+msgid "Tags:"
+msgstr "Tags:"
+
+#: single.php:56 single.php:57 loop/loop.php:31 loop/loop.php:32
+#, php-format
+msgid "Posts by %s"
+msgstr "Posts por %s"
+
+#: single.php:63 loop/loop.php:39
+msgid "0 Comments"
+msgstr "0 Comentários"
+
+#: single.php:64 loop/loop.php:40
+msgid "1 Comment"
+msgstr "1 Comentário"
+
+#: single.php:65 loop/loop.php:41
+msgid "% Comments"
+msgstr "% Comentários"
+
+#: taxonomy-coupon_category.php:54 inc/config/option-config.php:945
+msgid "Newest %coupon_cate% Coupons"
+msgstr "Mais recente %coupon_cate% Cupons"
+
+#: taxonomy-coupon_category.php:131 taxonomy-coupon_store.php:128
+#: taxonomy-coupon_store.php:166 taxonomy-coupon_store.php:204
+#: inc/widgets/coupons.php:134 inc/widgets/coupons.php:179
+#: inc/widgets/coupons.php:225
+msgid "Load More Coupons"
+msgstr "Carregar Mais Cupons"
+
+#: taxonomy-coupon_store.php:37
+msgid "Shop "
+msgstr "Loja "
+
+#: taxonomy-coupon_store.php:220 inc/widgets/coupons.php:124
+#: inc/widgets/coupons.php:163 inc/widgets/coupons.php:209
+msgid "Oops! No coupons found."
+msgstr "Oops! Não encontramos nenhum cupom."
+
+#: taxonomy-coupon_store.php:222
+msgid "There is no coupons for this store, please comeback later."
+msgstr "Não há cupons para esta loja, por favor volta mais tarde."
+
+#: inc/extras.php:72
+msgid ""
+"This widget area is currently disabled. You can enable it Theme Options - "
+"Footer section."
+msgstr ""
+"Este widget área está desativado no momento. Você pode habilitá-la Opções de "
+"Tema - seção de Rodapé."
+
+#: inc/extras.php:182
+msgid "Read more"
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Leia mais"
+msgstr[1] "As seguintes plugins recomendados são actualmente inactivo: %1$s."
+
+#: inc/post-type.php:24
+msgctxt "post type general name"
+msgid "Coupons"
+msgstr "Cupons"
+
+#: inc/post-type.php:25
+msgctxt "post type singular name"
+msgid "Coupon"
+msgstr "Cupom"
+
+#: inc/post-type.php:26
+msgctxt "admin menu"
+msgid "Coupons"
+msgstr "Cupons"
+
+#: inc/post-type.php:27
+msgctxt "add new on admin bar"
+msgid "Coupon"
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] "Cupom"
+msgstr[1] ""
+"Desculpe, mas você não tem as permissões corretas para ativar o %s plugins. "
+"Contate o administrador deste site para ajudar na obtenção de plugins "
+"ativados."
+
+#: inc/post-type.php:28
+msgctxt "coupon"
+msgid "Add New"
+msgstr "Adicionar Novo"
+
+#: inc/post-type.php:29
+msgid "Add New Coupon"
+msgstr "Adicionar Novo Cupom"
+
+#: inc/post-type.php:30
+msgid "New Coupon"
+msgstr "Novo Cupom"
+
+#: inc/post-type.php:31
+msgid "Edit Coupon"
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] "Editar Cupom"
+msgstr[1] ""
+"Os seguintes plugins precisam ser atualizados para a versão mais recente "
+"para garantir a máxima compatibilidade com este tema: %1$s."
+
+#: inc/post-type.php:32
+msgid "View Coupon"
+msgstr "Visualizar O Cupom"
+
+#: inc/post-type.php:33
+msgid "All Coupons"
+msgstr "Todos Os Cupons"
+
+#: inc/post-type.php:34
+msgid "Search Coupons"
+msgstr "Pesquisa Cupons"
+
+#: inc/post-type.php:35
+msgid "Parent Coupons:"
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] "Pai Cupons:"
+msgstr[1] ""
+"Desculpe, mas você não tem as permissões corretas para atualizar o %s "
+"plugins. Contate o administrador deste site para ajudar na obtenção de "
+"plugins atualizados."
+
+#: inc/post-type.php:36
+msgid "No coupons found."
+msgstr "Cupons não encontrada."
+
+#: inc/post-type.php:37
+msgid "No coupons found in Trash."
+msgstr "Sem cupons encontrado no Lixo."
+
+#: inc/post-type.php:76
+msgctxt "taxonomy general name"
+msgid "Coupon Categories"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Categorias de Cupons"
+msgstr[1] "De começar a instalar os plugins"
+
+#: inc/post-type.php:77
+msgctxt "taxonomy singular name"
+msgid "Coupon Category"
+msgstr "Categoria De Cupons"
+
+#: inc/post-type.php:78
+msgid "Search Coupon Categories"
+msgstr "Pesquisa Cupom Categorias"
+
+#: inc/post-type.php:79
+msgid "All Coupon Categories"
+msgstr "Todos Cupom Categorias"
+
+#: inc/post-type.php:80
+msgid "Parent Coupon Category"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Pai De Cupom Categoria"
+msgstr[1] "Comece ativando plugins"
+
+#: inc/post-type.php:81
+msgid "Parent Coupon Category:"
+msgstr "Pai De Cupom Categoria:"
+
+#: inc/post-type.php:82
+msgid "Edit Coupon Category"
+msgstr "Editar Cupom Categoria"
+
+#: inc/post-type.php:83
+msgid "Update Category"
+msgstr "Categoria De Actualização"
+
+#: inc/post-type.php:84
+msgid "Add New Coupon Category"
+msgstr "Adicionar Nova Categoria De Cupons"
+
+#: inc/post-type.php:85
+msgid "New Coupon Category Name"
+msgstr "Novo Cupom Nome Da Categoria"
+
+#: inc/post-type.php:86
+msgid "Categories"
+msgstr "Categorias"
+
+#: inc/post-type.php:113
+msgctxt "taxonomy general name"
+msgid "Coupon Stores"
+msgstr "Cupom De Lojas"
+
+#: inc/post-type.php:114
+msgctxt "taxonomy singular name"
+msgid "Coupon Store"
+msgstr "Cupom Da Loja"
+
+#: inc/post-type.php:115
+msgid "Search Stores"
+msgstr "Pesquisa Armazena"
+
+#: inc/post-type.php:116
+msgid "All Stores"
+msgstr "Todos Os Arquivos"
+
+#: inc/post-type.php:117
+msgid "Parent Store"
+msgstr "Armazenamento Pai"
+
+#: inc/post-type.php:118
+msgid "Parent Store:"
+msgstr "Armazenamento Pai:"
+
+#: inc/post-type.php:119
+msgid "Update Store"
+msgstr "Actualização Store"
+
+#: inc/post-type.php:120
+msgid "Add New Store"
+msgstr "Adicionar Nova Loja"
+
+#: inc/post-type.php:121
+msgid "New Store"
+msgstr "Loja"
+
+#: inc/post-type.php:122
+msgid "Stores"
+msgstr "Lojas"
+
+#: inc/post-type.php:123
+msgid "View Store"
+msgstr "Ler Store"
+
+#: inc/post-type.php:124
+msgid "Edit Store"
+msgstr "Editar Store"
+
+#: inc/post-type.php:152
+msgctxt "taxonomy general name"
+msgid "Coupon Tags"
+msgstr "Tags de Cupons"
+
+#: inc/post-type.php:153
+msgctxt "taxonomy singular name"
+msgid "Coupon Tag"
+msgstr "Cupom Tag"
+
+#: inc/post-type.php:154
+msgid "Search Tag"
+msgstr "Pesquisa Tag"
+
+#: inc/post-type.php:155
+msgid "All Tags"
+msgstr "Tags"
+
+#: inc/post-type.php:156
+msgid "Parent Tags"
+msgstr "Pai Tags"
+
+#: inc/post-type.php:157
+msgid "Parent Tag:"
+msgstr "Pai Tag:"
+
+#: inc/post-type.php:158
+msgid "Update Tag"
+msgstr "Atualização Tag"
+
+#: inc/post-type.php:159
+msgid "Add New Tag"
+msgstr "Adicionar Nova Tag"
+
+#: inc/post-type.php:160
+msgid "New Tag"
+msgstr "Nova Tag"
+
+#: inc/post-type.php:161
+msgid "Tags"
+msgstr "Tags"
+
+#: inc/post-type.php:162
+msgid "View Tags"
+msgstr "View Tags"
+
+#: inc/post-type.php:163
+msgid "Edit Tag"
+msgstr "Editar Tag"
+
+#: inc/post-type.php:200 inc/config/metabox-config.php:418
+msgid "Icon"
+msgstr "Icon"
+
+#: inc/post-type.php:224 inc/config/metabox-config.php:358
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: inc/post-type.php:227 inc/config/option-config.php:516
+#: inc/widgets/slider.php:78
+#: inc/redux-extensions/slides_v2/slides_v2/field_slides_v2.php:161
+#: inc/redux-extensions/slides_v2/slides_v2/field_slides_v2.php:219
+msgid "URL"
+msgstr "URL"
+
+#: inc/post-type.php:228
+msgid "Out"
+msgstr "Out"
+
+#: inc/post-type.php:259
+msgid "URL:"
+msgstr "URL:"
+
+#: inc/post-type.php:260 inc/post-type.php:264
+msgid "[empty]"
+msgstr "[empty]"
+
+#: inc/post-type.php:263
+msgid "Aff:"
+msgstr "Aff:"
+
+#: inc/post-type.php:297 inc/config/metabox-config.php:96
+#: inc/core/coupon.php:706 inc/core/coupon.php:714 inc/core/coupon.php:1003
+#: inc/core/coupon.php:1011
+msgid "Code"
+msgstr "Cupom de Desconto"
+
+#: inc/post-type.php:298 inc/config/metabox-config.php:97
+#: inc/core/coupon.php:707 inc/core/coupon.php:1004
+msgid "Sale"
+msgstr "Link com Desconto"
+
+#: inc/post-type.php:299 inc/template-tags.php:310
+#: inc/config/metabox-config.php:98 inc/core/coupon.php:708
+#: inc/core/coupon.php:1005
+msgid "Printable"
+msgstr "Printable"
+
+#: inc/post-type.php:308
+msgid "All coupon types"
+msgstr "Todos os tipos de cupom"
+
+#: inc/post-type.php:319
+msgid "Filter store"
+msgstr "Filtro de Loja"
+
+#: inc/post-type.php:469
+msgid "Coupon"
+msgstr "Cupom"
+
+#: inc/post-type.php:470 loop/coupon-modal.php:82
+#: inc/config/metabox-config.php:136
+msgid "Expires"
+msgstr "Expira"
+
+#: inc/post-type.php:471
+msgid "Votes / Clicks"
+msgstr "Votos / Cliques"
+
+#: inc/post-type.php:514
+msgid "[No Code]"
+msgstr "[Sem Código]"
+
+#: inc/post-type.php:522 inc/core/coupon.php:591
+msgid "Expired"
+msgstr "Expirado"
+
+#: inc/post-type.php:531 inc/config/metabox-config.php:166
+msgid "Vote Up"
+msgstr "Votação Up"
+
+#: inc/post-type.php:532 inc/config/metabox-config.php:173
+msgid "Vote Down"
+msgstr "Votação Para Baixo"
+
+#: inc/post-type.php:533
+msgid "Total Used"
+msgstr "Total Usado"
+
+#: inc/siteorigin.php:10
+msgid "Boxed mod"
+msgstr "Box mod"
+
+#: inc/siteorigin.php:13 inc/config/metabox-config.php:292
+#: inc/widgets/carousel.php:240 inc/metabox/includes/CMB2_JS.php:87
+msgid "Default"
+msgstr "Predefinição"
+
+#: inc/siteorigin.php:14
+msgid "Shadow box"
+msgstr "Shadow box"
+
+#: inc/template-tags.php:42
+msgid "&larr; Previous"
+msgstr "&larr; Anterior"
+
+#: inc/template-tags.php:43
+msgid "Next &rarr;"
+msgstr "Próximo &rarr;"
+
+#: inc/template-tags.php:50
+msgid "Posts navigation"
+msgstr "Posts de navegação"
+
+#: inc/template-tags.php:74
+#, php-format
+msgid "Category: %s"
+msgstr "Categoria: %s"
+
+#: inc/template-tags.php:76
+#, php-format
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: inc/template-tags.php:78
+#, php-format
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: inc/template-tags.php:80
+#, php-format
+msgid "Year: %s"
+msgstr "Ano: %s"
+
+#: inc/template-tags.php:80
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:82
+#, php-format
+msgid "Month: %s"
+msgstr "Mês: %s"
+
+#: inc/template-tags.php:82
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:84
+#, php-format
+msgid "Day: %s"
+msgstr "Dia: %s"
+
+#: inc/template-tags.php:84
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:86
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Além"
+
+#: inc/template-tags.php:88
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galerias"
+
+#: inc/template-tags.php:90
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Imagens"
+
+#: inc/template-tags.php:92
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Vídeos"
+
+#: inc/template-tags.php:94
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Aspas"
+
+#: inc/template-tags.php:96
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Links"
+
+#: inc/template-tags.php:98
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Status"
+
+#: inc/template-tags.php:100
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Áudio"
+
+#: inc/template-tags.php:102
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chats"
+
+#: inc/template-tags.php:104
+#, php-format
+msgid "Archives: %s"
+msgstr "Arquivo: %s"
+
+#. 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:108
+#, php-format
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:110
+msgid "Archives"
+msgstr "Arquivos"
+
+#: inc/template-tags.php:190 inc/core/coupon.php:1078
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:190 inc/core/coupon.php:1078
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: inc/template-tags.php:206 inc/core/coupon.php:1093
+#, php-format
+msgid " %s ago"
+msgstr " %s atrás"
+
+#: inc/template-tags.php:210 inc/core/coupon.php:1097
+msgid "Your comment is awaiting moderation."
+msgstr "O seu comentário está aguardando aprovação."
+
+#: inc/template-tags.php:285
+msgid "Share link on Facebook"
+msgstr "Link compartilhar no Facebook"
+
+#: inc/template-tags.php:285 inc/core/helper.php:218
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/template-tags.php:286
+msgid "Share link on Twitter"
+msgstr "Link compartilhar no Twitter"
+
+#: inc/template-tags.php:286 inc/core/helper.php:248
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/template-tags.php:287
+msgid "Share link on Google+"
+msgstr "Link compartilhar no Google+"
+
+#: inc/template-tags.php:287
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/template-tags.php:288
+msgid "Share image on Pinterest"
+msgstr "Compartilhar imagem no Pinterest"
+
+#: inc/template-tags.php:288
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/template-tags.php:307
+msgid "All"
+msgstr "Todos"
+
+#: inc/template-tags.php:308
+msgid "Codes"
+msgstr "Códigos"
+
+#: inc/template-tags.php:309
+msgid "Sales"
+msgstr "Ofertas"
+
+#: inc/template-tags.php:405
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ops! Essa página não foi encontrada."
+
+#: inc/template-tags.php:412
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Resultados da pesquisa para: %s"
+
+#: inc/template-tags.php:625
+msgid "&laquo; Previous"
+msgstr "&laquo; Anterior"
+
+#: inc/template-tags.php:626
+msgid "Next &raquo;"
+msgstr "Próximo &raquo;"
+
+#: inc/template-tags.php:704
+msgid "&hellip;"
+msgstr "&hellip;"
+
+#: loop/coupon-meta.php:13
+msgid "Coupon Comments"
+msgstr "Cupom Comentários"
+
+#: loop/coupon-meta.php:13
+msgid "Comments"
+msgstr "Comentários"
+
+#: loop/coupon-meta.php:51
+msgid "Showing most recent comments"
+msgstr "Mostrando comentários mais recentes"
+
+#: loop/coupon-meta.php:54
+msgid "Loading comments...."
+msgstr "Carregando comentários...."
+
+#: loop/coupon-meta.php:64 inc/core/ajax.php:152
+msgid "Your comment submitted."
+msgstr "Seu comentário foi enviado."
+
+#: loop/coupon-meta.php:68 inc/core/ajax.php:154
+msgid "Something wrong! Please try again later."
+msgstr "Algo de errado! Por favor, tente novamente mais tarde."
+
+#: loop/coupon-meta.php:73
+msgid "Add a comment"
+msgstr "Adicionar comentário"
+
+#: loop/coupon-meta.php:78
+msgid "Your Name"
+msgstr "Nome"
+
+#: loop/coupon-meta.php:81
+msgid "Your Email"
+msgstr "O Seu E-Mail"
+
+#: loop/coupon-meta.php:85
+msgid "Submit"
+msgstr "Submeter"
+
+#: loop/coupon-modal.php:17
+msgid "Deal Activated, no coupon code required!"
+msgstr "Oferta ativada! Clique e Acesse a Loja."
+
+#: loop/coupon-modal.php:20 inc/core/coupon.php:1340 inc/core/coupon.php:1436
+msgid "Print this coupon and redeem it in-store"
+msgstr "Imprimir este cupom e trocá-lo na loja"
+
+#: loop/coupon-modal.php:23
+msgid "Copy this code and use at checkout"
+msgstr "Copie esse código para usar no checkout"
+
+#: loop/coupon-modal.php:33 loop/coupon-modal.php:69
+msgid "Go To Store"
+msgid_plural "%d Coupons"
+msgstr[0] "Ir para a loja"
+msgstr[1] "%d Cupons"
+
+#: loop/coupon-modal.php:67
+msgid "Print Now"
+msgstr "Imprimir Agora"
+
+#: loop/coupon-modal.php:75
+msgid "Did it work?"
+msgstr "O cupom está funcionando?"
+
+#: loop/coupon-modal.php:76
+msgid "Coupon Detail"
+msgstr "Detalhes do Cupom"
+
+#: loop/coupon-modal.php:83
+msgid "Submitted"
+msgstr "Enviado"
+
+#: loop/coupon-modal.php:84
+#, php-format
+msgid "%s ago"
+msgstr "%s atrás"
+
+#: loop/loop-coupon-cat.php:27
+#, php-format
+msgid "%s Coupons"
+msgstr "%s Cupons"
+
+#: loop/loop-coupon-cat.php:52 loop/loop-coupon.php:50
+msgid "More"
+msgstr "Mais"
+
+#: loop/loop-coupon-cat.php:60 loop/loop-coupon.php:58
+#: inc/config/option-config.php:794 inc/config/option-config.php:900
+#: inc/widgets/coupons.php:289
+msgid "Less"
+msgstr "Menos"
+
+#: loop/loop.php:54
+msgid "Read More"
+msgstr "Leia Mais"
+
+#. Name of the template
+msgid "Coupon Categories Listing"
+msgstr "Cupom De Listagem De Categorias"
+
+#: templates/category-az.php:110
+msgid "Oops! No categories found"
+msgstr "Ops! Não encontramos nenhuma categorias"
+
+#: templates/category-az.php:112 templates/store-az.php:162
+msgid "You must activate wpcoupons plugin to use this template."
+msgstr "Você precisa ativar wpcoupons plugin para usar este modelo."
+
+#. Name of the template
+msgid "Front Page"
+msgstr "Primeira Página"
+
+#: templates/store-az.php:160
+msgid "Oops! No stores found"
+msgstr "Ops! As lojas nenhuma loja."
+
+#. Name of the template
+msgid "Coupon Submit"
+msgid_plural "Expires <span class=\"count\">(%s)</span>"
+msgstr[0] "Cupom De Submeter"
+msgstr[1] "Expira <span class=\"contagem de\">(%s)</span>"
+
+#: inc/config/metabox-config.php:79
+msgid "Coupon Settings"
+msgstr "Cupom De Definições"
+
+#: inc/config/metabox-config.php:91
+msgid "Coupon Type"
+msgstr "Tipo de Cupom"
+
+#: inc/config/metabox-config.php:103
+msgid "Coupon Code"
+msgstr "Código Do Cupom"
+
+#: inc/config/metabox-config.php:107
+msgid "Example: EMIAXHGF"
+msgstr "Exemplo: EMIAXHGF"
+
+#: inc/config/metabox-config.php:115
+msgid "Coupon Printable Image"
+msgstr "Cupom De Imagem De Impressão"
+
+#: inc/config/metabox-config.php:119 inc/config/metabox-config.php:131
+msgid "http://..."
+msgstr "http://..."
+
+#: inc/config/metabox-config.php:126
+msgid "Coupon URL"
+msgid_plural "%s views"
+msgstr[0] "URL do Cupom"
+msgstr[1] "%s pontos de vista"
+
+#: inc/config/metabox-config.php:129
+msgid "Coupon URL, if this field empty then Store Aff URL will be use."
+msgstr ""
+"URL do cupom, se este campo estiver em branco, o link da loja será utilizado "
+"automaticamente."
+
+#: inc/config/metabox-config.php:139
+msgid "Set expires for coupon. Uses GMT+0"
+msgstr "Conjunto de cupom expira. Usa GMT+0"
+
+#: inc/config/metabox-config.php:143
+msgid "Exclusive Coupon"
+msgstr "Cupom Exclusivo"
+
+#: inc/config/metabox-config.php:144
+msgid "This coupon is exclusive"
+msgstr "Este cupom é de uso exclusivo"
+
+#: inc/config/metabox-config.php:152
+msgid "Number Coupon Used"
+msgstr "Número de Cupom Usado"
+
+#: inc/config/metabox-config.php:159
+msgid "Number Views"
+msgstr "Número De Views"
+
+#: inc/config/metabox-config.php:193
+msgid "Page Settings"
+msgstr "Configurações De Página"
+
+#: inc/config/metabox-config.php:198
+msgid "Page layout"
+msgstr "Page layout"
+
+#: inc/config/metabox-config.php:199
+msgid ""
+"Select page layout to display, leave empty to use theme option settings."
+msgstr ""
+"Selecione layout de página para exibir, deixe em branco para usar a opção de "
+"tema de configurações."
+
+#: inc/config/metabox-config.php:202 inc/config/metabox-config.php:228
+msgid "Default (Theme options)"
+msgstr "Padrão (opções de Tema)"
+
+#: inc/config/metabox-config.php:205 inc/config/option-config.php:231
+#: inc/config/option-config.php:819 inc/config/option-config.php:925
+msgid "Right sidebar"
+msgstr "Barra Lateral Direita"
+
+#: inc/config/metabox-config.php:206 inc/config/option-config.php:229
+#: inc/config/option-config.php:818 inc/config/option-config.php:924
+msgid "Left sidebar"
+msgstr "Barra Lateral Esquerda"
+
+#: inc/config/metabox-config.php:207 inc/config/option-config.php:230
+msgid "No sidebar"
+msgstr "Sem Barra Lateral"
+
+#: inc/config/metabox-config.php:212
+msgid "Display content in shadow box"
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Exibir o conteúdo na caixa de sombra"
+msgstr[1] "Este tema requer os seguintes plugins: %1$s."
+
+#: inc/config/metabox-config.php:213
+msgid "Wrapper content by shadow box."
+msgstr "Wrapper de conteúdo de caixa de sombra."
+
+#: inc/config/metabox-config.php:218
+msgid "No, display by default"
+msgstr "Não, exibição por padrão"
+
+#: inc/config/metabox-config.php:219
+msgid "Yes, Display content in a shadow box"
+msgstr "Sim, Exibir o conteúdo em uma caixa de sombra"
+
+#: inc/config/metabox-config.php:224
+msgid "Custom page header"
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Personalizado cabeçalho de página"
+msgstr[1] "Este tema, recomenda os seguintes plugins: %1$s."
+
+#: inc/config/metabox-config.php:225
+msgid "Custom page header."
+msgstr "Personalizado cabeçalho da página."
+
+#: inc/config/metabox-config.php:231
+msgid "Show page title"
+msgstr "Mostrar título da página"
+
+#: inc/config/metabox-config.php:232
+msgid "Hide page title"
+msgstr "Ocultar o título da página"
+
+#: inc/config/metabox-config.php:238
+msgid "Hide breadcrumb"
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] "Ocultar trilho"
+msgstr[1] ""
+"Desculpe, mas você não tem as permissões corretas para instalar o %s plugins."
+" Contate o administrador deste site para ajudar na obtenção de plugins "
+"instalados."
+
+#: inc/config/metabox-config.php:240
+#, php-format
+msgid ""
+"Check this if you want to hide breadcrumb. NOTE: you must install plugin "
+"%1$s to use Breadcrumb."
+msgstr ""
+"Marque esta opção se você deseja ocultar trilha de navegação. NOTA: você "
+"deve instalar o plugin %1$s para usar Breadcrumb."
+
+#: inc/config/metabox-config.php:240
+msgid "Breadcrumb Navxt"
+msgstr "Breadcrumb Navxt"
+
+#: inc/config/metabox-config.php:246
+msgid "Custom page title"
+msgstr "Personalizado título da página"
+
+#: inc/config/metabox-config.php:248
+msgid "Display page title difference the title above."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Página de exibição de título de diferença a título acima."
+msgstr[1] "As seguintes plugins necessários estão atualmente inativo: %1$s."
+
+#: inc/config/metabox-config.php:253
+msgid "Hide Header cover"
+msgstr "Ocultar o Cabeçalho de capa"
+
+#: inc/config/metabox-config.php:255
+msgid "Check this if you want to hide header cover"
+msgstr "Marque esta opção se você deseja ocultar o cabeçalho de capa"
+
+#: inc/config/metabox-config.php:261
+msgid "Cover background image"
+msgstr "Imagem de plano de fundo."
+
+#: inc/config/metabox-config.php:267
+msgid "Cover background color"
+msgstr "Capa cor de fundo"
+
+#: inc/config/metabox-config.php:277
+msgid "Number products to show"
+msgstr "Número de produtos para mostrar"
+
+#: inc/config/metabox-config.php:286
+msgid "Number products per row"
+msgstr "Número de produtos por linha"
+
+#: inc/config/metabox-config.php:294
+msgid "2 columns"
+msgstr "2 colunas"
+
+#: inc/config/metabox-config.php:295 inc/config/option-config.php:1164
+msgid "3 Columns"
+msgstr "3 Colunas"
+
+#: inc/config/metabox-config.php:296 inc/config/option-config.php:1165
+msgid "4 Columns"
+msgstr "4 Colunas"
+
+#: inc/config/metabox-config.php:297
+msgid "5 Columns"
+msgstr "5 Colunas"
+
+#: inc/config/metabox-config.php:298
+msgid "6 Columns"
+msgstr "6 Colunas"
+
+#: inc/config/metabox-config.php:323
+msgid "Store Descriptions"
+msgstr "Armazenar Descrições"
+
+#: inc/config/metabox-config.php:330
+msgid "Home URL"
+msgstr "Home URL"
+
+#: inc/config/metabox-config.php:332
+msgid "Store Website home page URL."
+msgstr "Site da loja o URL da home page."
+
+#: inc/config/metabox-config.php:335 inc/config/metabox-config.php:345
+msgid "http://example.com"
+msgstr "http://example.com"
+
+#: inc/config/metabox-config.php:340
+msgid "Affiliate URL"
+msgstr "URL"
+
+#: inc/config/metabox-config.php:342
+msgid "Store Affiliate URL."
+msgstr "Store URL de Afiliado."
+
+#: inc/config/metabox-config.php:351
+msgid "Auto generate thumbnail"
+msgstr "Auto gerar miniatura"
+
+#: inc/config/metabox-config.php:352
+msgid ""
+"Auto download store home page screenshoot and set it as thumbnail for this "
+"store if store url is correct. This function is disable automatically if the "
+"thumbnail bellow has data."
+msgstr ""
+"Download automático de armazenamento de home page screenshoot e definir como "
+"miniatura para este arquivo se o arquivo de url está correta. Esta função é "
+"desativar automaticamente se na miniatura abaixo tem dados."
+
+#: inc/config/metabox-config.php:369
+msgid "Custom store heading"
+msgstr "Cabeçalho de Loja Personalizado"
+
+#: inc/config/metabox-config.php:371
+#, php-format
+msgid ""
+"The title will display in single store, example: Macy's Coupon Code and "
+"Deals, if empty then store custom heading from theme option will be used. "
+"You can use %store_name% for current store name."
+msgstr ""
+"O título será exibido na única loja, exemplo: macy's's Código do Cupom e "
+"Ofertas, se vazia, em seguida, loja de título personalizados do tema opção "
+"será usada. Você pode usar %store_name% para o atual nome da loja."
+
+#: inc/config/metabox-config.php:377
+msgid "Featured Store"
+msgstr "Loja Em Destaque"
+
+#: inc/config/metabox-config.php:378
+msgid "Check this if you want to this store is featured."
+msgstr "Marque esta opção se você deseja esta loja é destaque."
+
+#: inc/config/metabox-config.php:385
+msgid "Extra Info"
+msgstr "Informações Adicionais"
+
+#: inc/config/metabox-config.php:386
+msgid "This content display after product listing on single store page."
+msgstr ""
+"Este conteúdo apresentados depois de listagem de produtos em uma única "
+"página da loja."
+
+#: inc/config/metabox-config.php:411
+msgid "Category info"
+msgstr "Categoria info"
+
+#: inc/config/metabox-config.php:426
+msgid "Image"
+msgstr "Imagem"
+
+#: inc/config/option-config.php:50
+msgid "Theme Information 1"
+msgstr "Informações De Tema 1"
+
+#: inc/config/option-config.php:51 inc/config/option-config.php:57
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr "<p>Este é o guia conteúdo, é permitido HTML.</p>"
+
+#: inc/config/option-config.php:56
+msgid "Theme Information 2"
+msgstr "Informações De Tema 2"
+
+#: inc/config/option-config.php:61
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr "<p>Esta é a barra lateral de conteúdo, é permitido HTML.</p>"
+
+#: inc/config/option-config.php:84
+msgid "Coupon WP"
+msgstr "Cuponfy"
+
+#: inc/config/option-config.php:85
+msgid "Theme Options"
+msgstr "Opções De Tema"
+
+#: inc/config/option-config.php:197
+msgid "General"
+msgstr "Geral"
+
+#: inc/config/option-config.php:208
+msgid "Site Logo"
+msgstr "O Logo Do Site"
+
+#: inc/config/option-config.php:210
+msgid "Upload your logo here."
+msgstr "Fazer Upload de seu logotipo aqui."
+
+#: inc/config/option-config.php:216
+msgid "Site Logo Retina"
+msgstr "O Logo Do Site Retina"
+
+#: inc/config/option-config.php:218
+msgid ""
+"Upload at exactly 2x the size of your standard logo (optional), the name "
+"should include @2x at the end, example logo@2x.png"
+msgstr ""
+"Envie pelo exatamente 2x o tamanho do seu logotipo (opcional), o nome deve "
+"incluir @2x no final, exemplo logo@2x.png"
+
+#: inc/config/option-config.php:223
+msgid "Site Layout"
+msgstr "Layout"
+
+#: inc/config/option-config.php:224
+msgid "Default site layout"
+msgstr "Predefinição de layout do site"
+
+#: inc/config/option-config.php:240
+msgid "Coupon categories listing page"
+msgstr "Página de listagem de categorias de cupons"
+
+#: inc/config/option-config.php:249
+msgid "Stores listing page"
+msgstr "Armazena página de listagem"
+
+#: inc/config/option-config.php:257
+msgid "Hide child stores on listing page"
+msgstr "Ocultar criança lojas na página de listagem"
+
+#: inc/config/option-config.php:271
+msgid "Custom Store rewrite slug"
+msgstr "Arquivo personalizado de reconfiguração slug"
+
+#: inc/config/option-config.php:272
+msgid "Default: store"
+msgstr "Predefinição: loja"
+
+#: inc/config/option-config.php:274 inc/config/option-config.php:284
+#, php-format
+msgid ""
+"If you change this option please go to Settings &#8594; %1$s and refresh "
+"your permalink structure before your custom post type will show the correct "
+"structure."
+msgstr ""
+"Se você alterar esta opção, por favor, vá para Configurações &#8594; %1$s e "
+"actualizar a sua estrutura de permalink antes de seu custom post type vai "
+"mostrar a estrutura correta."
+
+#: inc/config/option-config.php:274 inc/config/option-config.php:284
+msgid "Permalinks"
+msgstr "Permalinks"
+
+#: inc/config/option-config.php:281
+msgid "Custom coupon category rewrite slug"
+msgstr "Personalizado categoria de cupons de reconfiguração slug"
+
+#: inc/config/option-config.php:282
+msgid "Default: coupon-category"
+msgstr "Predefinição: cupom-categoria"
+
+#: inc/config/option-config.php:296
+msgid "Disable feed links."
+msgstr "Desactivar a alimentação de links."
+
+#: inc/config/option-config.php:297
+msgid "If you want to disable feed links just check this option."
+msgstr "Se você deseja desabilitar links de feed, basta verificar esta opção."
+
+#: inc/config/option-config.php:308
+msgid "Styling"
+msgstr "Estilo"
+
+#: inc/config/option-config.php:405
+msgid "Secondary"
+msgstr "Secundário"
+
+#: inc/config/option-config.php:439
+msgid "Coupon code"
+msgstr "Código do cupom"
+
+#: inc/config/option-config.php:452
+msgid "Coupon sale"
+msgstr "Cupom de venda"
+
+#: inc/config/option-config.php:465
+msgid "Coupon print"
+msgstr "Cupom de impressão"
+
+#: inc/config/option-config.php:478
+msgid "Body background"
+msgstr "Plano de fundo"
+
+#: inc/config/option-config.php:492
+msgid "Header"
+msgstr "Header"
+
+#: inc/config/option-config.php:502
+msgid "Enable Header Sticky"
+msgstr "Ativar Menu Fixo"
+
+#: inc/config/option-config.php:504
+msgid "This function apply for desktop only."
+msgstr "Está função é desabilitada para Mobile."
+
+#: inc/config/option-config.php:510
+msgid "Header Icons"
+msgstr "Cabeçalho De Ícones"
+
+#: inc/config/option-config.php:512
+#, php-format
+msgid "You can find icon code at %s"
+msgstr "Você pode encontrar o código referente ao ícone em %s"
+
+#: inc/config/option-config.php:514
+msgid "Label"
+msgstr "Rótulo"
+
+#: inc/config/option-config.php:515
+msgid "Enter you icon code, Ability use HTML code here."
+msgstr "Insira o HTML do  ícone aqui."
+
+#: inc/config/option-config.php:524
+msgid "Item"
+msgstr "Artigo"
+
+#: inc/config/option-config.php:530
+msgid "Top Search Stores"
+msgstr "Escolha os \"Mais pesquisados\""
+
+#: inc/config/option-config.php:542
+msgid "Custom your header style?"
+msgstr "Personalizar o estilo do cabeçalho?"
+
+#: inc/config/option-config.php:550
+msgid "Header Background"
+msgstr "Fundo Do Cabeçalho"
+
+#: inc/config/option-config.php:564
+msgid "Typography"
+msgstr "Tipografia"
+
+#: inc/config/option-config.php:574
+msgid "Body"
+msgstr "Corpo"
+
+#: inc/config/option-config.php:590
+msgid "Select custom font for your main body text."
+msgstr ""
+"Escolha do tipo de letra personalizado para o seu corpo principal do texto."
+
+#: inc/config/option-config.php:598
+msgid "Heading"
+msgstr "Cabeçalhos"
+
+#: inc/config/option-config.php:614
+msgid "Select custom font for heading like h1, h2, h3, ..."
+msgstr ""
+"Escolha do tipo de letra personalizado para a rubrica como h1, h2, h3, ..."
+
+#: inc/config/option-config.php:625
+msgid "Menu Bar"
+msgstr "Barra De Menu"
+
+#: inc/config/option-config.php:639
+msgid "Primary Menu Typography"
+msgstr "Tipografia do Menu Principal"
+
+#: inc/config/option-config.php:656
+msgid "Custom typography for primary menu."
+msgstr "Tipografia personalizada para o menu principal."
+
+#: inc/config/option-config.php:667
+msgid "Page"
+msgstr "Página"
+
+#: inc/config/option-config.php:676 inc/config/option-config.php:729
+msgid "Page header"
+msgstr "Cabeçalho da página"
+
+#: inc/config/option-config.php:681 inc/config/option-config.php:733
+msgid "Show page header"
+msgstr "Mostrar o cabeçalho de página"
+
+#: inc/config/option-config.php:682 inc/config/option-config.php:734
+msgid "Hide page header "
+msgstr "Ocultar o cabeçalho da página "
+
+#: inc/config/option-config.php:689 inc/config/option-config.php:749
+msgid "Show header breadcrumb"
+msgstr "Mostrar Breadcrumb do Cabeçalho"
+
+#: inc/config/option-config.php:692 inc/config/option-config.php:752
+msgid ""
+"Check this if you want to show breadcrumb. NOTE: you must install plugin "
+"Breadcrumb Navxt to use this function."
+msgstr ""
+"Verificar isso, se você quer mostrar a trilha. NOTA: você deve instalar o "
+"plugin Breadcrumb Navxt para utilizar esta função."
+
+#: inc/config/option-config.php:698 inc/config/option-config.php:758
+msgid "Show cover image"
+msgstr "Mostrar imagem de capa"
+
+#: inc/config/option-config.php:707 inc/config/option-config.php:767
+msgid "Header cover image"
+msgstr "Cabeçalho da imagem de capa"
+
+#: inc/config/option-config.php:721
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/config/option-config.php:741
+msgid "Custom blog title"
+msgstr "Título do Blog Personalizado"
+
+#: inc/config/option-config.php:780
+msgid "Single Store"
+msgstr "Única Loja"
+
+#: inc/config/option-config.php:788
+msgid "Coupon Store template"
+msgstr "Modelo de Cupom na Loja"
+
+#: inc/config/option-config.php:789
+msgid "Select template for store coupons."
+msgstr "Seleccione o modelo para a loja cupons."
+
+#: inc/config/option-config.php:793 inc/config/option-config.php:901
+#: inc/widgets/coupons.php:290
+msgid "Full"
+msgstr "Completo"
+
+#: inc/config/option-config.php:802 inc/config/option-config.php:909
+#: inc/config/option-config.php:1032
+msgid "Show coupon item thumbnails"
+msgstr "Mostrar thumbnails  do cupom"
+
+#: inc/config/option-config.php:804 inc/config/option-config.php:911
+#: inc/config/option-config.php:1034
+msgid "Default, Show if has thumbnail else store thumbnail instead."
+msgstr ""
+"Predefinição, Mostrar se tem miniatura de pessoa armazenar miniaturas em vez "
+"disso."
+
+#: inc/config/option-config.php:805 inc/config/option-config.php:912
+#: inc/config/option-config.php:1035
+msgid "Show if has thumbnail"
+msgstr "Mostrar se tem em miniatura"
+
+#: inc/config/option-config.php:806 inc/config/option-config.php:913
+#: inc/config/option-config.php:1036
+msgid "Hide All"
+msgstr "Ocultar Todos"
+
+#: inc/config/option-config.php:812
+msgid "Single Store Layout"
+msgstr "Único Layout De Loja"
+
+#: inc/config/option-config.php:813
+msgid "Default single store layout."
+msgstr "Predefinição único layout de loja."
+
+#: inc/config/option-config.php:825
+msgid "Store social sharing"
+msgstr "Compartilhamento de loja"
+
+#: inc/config/option-config.php:826
+msgid "Enable social share under store description"
+msgstr "Activar a acção social em loja de descrição"
+
+#: inc/config/option-config.php:833
+msgid "Store custom heading"
+msgstr "Cabeçalho de Loja Personalizado"
+
+#: inc/config/option-config.php:834
+msgid ""
+"Custom heading text for display on single store page. Use %store_name% to "
+"replace with current store name."
+msgstr ""
+"Título personalizado de texto para exibição em uma única página da loja. Use "
+"%store_name% para substituir com o atual nome da loja."
+
+#: inc/config/option-config.php:840
+msgid "Store unpopular coupon text"
+msgstr "Armazenar texto de cupom impopular"
+
+#: inc/config/option-config.php:846
+msgid "Store expired coupon text."
+msgstr "Texto de cupons expirados"
+
+#: inc/config/option-config.php:853
+msgid "Number active coupons to show"
+msgstr "Número de cupons ativos para mostrar"
+
+#: inc/config/option-config.php:860
+msgid "Number unpopular coupons to show"
+msgstr "Número impopular cupons para mostrar"
+
+#: inc/config/option-config.php:867
+msgid "Number expires coupons to show"
+msgstr "Número expira cupons para mostrar"
+
+#: inc/config/option-config.php:875
+msgid "Custom goto store slug"
+msgstr "Slug \"goto\" de loja personolizado"
+
+#: inc/config/option-config.php:876 inc/config/option-config.php:992
+#: inc/config/option-config.php:1108
+#, php-format
+msgid ""
+"When you enable this option maybe the permalinks will effect, to resolve "
+"this go to %1$s and hit \"Save Changes\" button."
+msgstr ""
+"Quando você habilitar esta opção, talvez a permalinks vai efeito, para "
+"resolver isso, vá para %1$s e bateu \\ \\ \"Salvar Alterações\" botão."
+
+#: inc/config/option-config.php:876 inc/config/option-config.php:992
+#: inc/config/option-config.php:1108
+msgid "Permalinks Settings"
+msgstr "Permalinks Definições"
+
+#: inc/config/option-config.php:887
+msgid "Coupon Category"
+msgstr "Categoria De Cupons"
+
+#: inc/config/option-config.php:895
+msgid "Coupon Category template"
+msgstr "Categoria de cupons modelo"
+
+#: inc/config/option-config.php:896
+msgid "Select template for coupon category."
+msgstr "Seleccione o modelo para a categoria de cupons."
+
+#: inc/config/option-config.php:919
+msgid "Coupon Category Layout"
+msgstr "Categoria De Cupons De Layout"
+
+#: inc/config/option-config.php:920
+msgid "Default coupon category layout."
+msgstr "Predefinição categoria de cupons de layout."
+
+#: inc/config/option-config.php:931
+msgid "Coupon category social sharing"
+msgstr "Categoria de cupons de compartilhamento social"
+
+#: inc/config/option-config.php:932
+msgid "Enable social share under coupon category description"
+msgstr "Activar a acção social sob a categoria de cupons descrição"
+
+#: inc/config/option-config.php:939
+msgid "Coupon category custom heading"
+msgstr "Categoria de cupons de título personalizados"
+
+#: inc/config/option-config.php:940
+msgid ""
+"Custom heading text for display on coupon category page. You can use "
+"%coupon_cate% to display category name."
+msgstr ""
+"Título personalizado de texto para exibição no cupom página de categoria. "
+"Você pode usar %coupon_cate% para exibir o nome da categoria."
+
+#: inc/config/option-config.php:946
+msgid "Coupon category sub-heading"
+msgstr "Categoria de cupons sub-título"
+
+#: inc/config/option-config.php:947
+msgid "You can use %coupon_cate% to display category name."
+msgstr "Você pode usar %coupon_cate% para exibir o nome da categoria."
+
+#: inc/config/option-config.php:953
+msgid "How many coupons display by default?"
+msgstr "Como muitos cupons de exibição por padrão?"
+
+#: inc/config/option-config.php:957
+msgid "Coupon listing paging"
+msgstr "Cupom de listagem de paginação"
+
+#: inc/config/option-config.php:961
+msgid "Paging Navigation"
+msgstr "Paginação De Navegação"
+
+#: inc/config/option-config.php:962
+msgid "Load more with ajax"
+msgstr "Carregar mais com ajax"
+
+#: inc/config/option-config.php:968
+msgid "Category advertisement"
+msgstr "Categoria do anúncio"
+
+#: inc/config/option-config.php:969
+msgid "Display custom ads after coupons listing on single category."
+msgstr ""
+"Exibir anúncios personalizados depois de cupons de listagem em uma única "
+"categoria."
+
+#: inc/config/option-config.php:981
+msgid "Coupons"
+msgstr "Cupons"
+
+#: inc/config/option-config.php:991
+msgid "Enable single page for coupon."
+msgstr "Activar única página para cupom."
+
+#: inc/config/option-config.php:999
+msgid "Auto open coupon modal on single coupon."
+msgstr "Auto abrir o cupom restrita a um único cupom."
+
+#: inc/config/option-config.php:1007
+msgid "Enable popular coupons on single page."
+msgstr "Activar popular cupons em uma única página."
+
+#: inc/config/option-config.php:1015
+msgid "Custom popular text."
+msgstr "Personalizado popular do texto."
+
+#: inc/config/option-config.php:1016
+msgid "Use {store} to display store name."
+msgstr "Use {store} para exibir o nome do arquivo."
+
+#: inc/config/option-config.php:1024
+msgid "Number popular coupons on single page."
+msgstr "Número de populares cupons em uma única página."
+
+#: inc/config/option-config.php:1044
+msgid "Show coupon read more coupon description."
+msgstr "Mostrar cupom leia mais cupom de descrição."
+
+#: inc/config/option-config.php:1051
+msgid "Exclusive Coupon Message"
+msgstr "Cupom Exclusivo Mensagem"
+
+#: inc/config/option-config.php:1056
+msgid "When coupon expires"
+msgstr "Quando o cupom expira"
+
+#: inc/config/option-config.php:1060
+msgid "Do Nothing"
+msgstr "Do Nada"
+
+#: inc/config/option-config.php:1061
+msgid "Disable"
+msgstr "Desactivar"
+
+#: inc/config/option-config.php:1062 inc/widgets/slider.php:62
+#: inc/widgets/slider.php:85 inc/metabox/includes/CMB2_JS.php:138
+#: inc/metabox/includes/CMB2_Types.php:257
+#: inc/metabox/includes/types/CMB2_Type_File_Base.php:80
+#: inc/redux-extensions/slides_v2/slides_v2/field_slides_v2.php:139
+#: inc/redux-extensions/slides_v2/slides_v2/field_slides_v2.php:199
+msgid "Remove"
+msgstr "Remover"
+
+#: inc/config/option-config.php:1068
+msgid "Run expires action time"
+msgstr "Executar expira o tempo de ação"
+
+#: inc/config/option-config.php:1069
+msgid "Run action after coupon expires x seconds., default: 604800 (1 week)"
+msgstr ""
+"Ação de execução depois de cupom expira em x segundos., padrão: 604800 (1 "
+"semana)"
+
+#: inc/config/option-config.php:1078
+msgid "Open store website in previous tab when click on print button."
+msgstr ""
+"Abrir o site da loja em guia anterior quando clicar no botão 'imprimir'."
+
+#: inc/config/option-config.php:1085
+msgid "Open store website in previous tab when click on \"Get Deal\" button."
+msgstr ""
+"Abrir o site da loja em guia anterior quando clicar em \"Get Lidar\" botão."
+
+#: inc/config/option-config.php:1092
+msgid "Open store website in previous tab when click on \"Get Code\" button."
+msgstr ""
+"Abrir o site da loja em guia anterior quando clicar em \"Get Code\" botão."
+
+#: inc/config/option-config.php:1098
+msgid "Default coupon excerpt length"
+msgstr "Predefinição cupom trecho de comprimento"
+
+#: inc/config/option-config.php:1107
+msgid "Custom coupon go out slug"
+msgstr "Personalizado cupom sair slug"
+
+#: inc/config/option-config.php:1129
+msgid "Before footer"
+msgstr "Antes de rodapé"
+
+#: inc/config/option-config.php:1130
+msgid "Note: This field only display on homepage"
+msgstr "Nota: Este campo só exibir na página inicial"
+
+#: inc/config/option-config.php:1137
+msgid "Before Footer Display"
+msgstr "Antes De Rodapé Display"
+
+#: inc/config/option-config.php:1138
+msgid ""
+"Note: Setting home page goto Settings -> Reading -> Front page displays -> "
+"Check static page -> Select a page"
+msgstr ""
+"Observação: a Configuração página inicial ir a Configurações -> Leitura -> "
+"Front page apresenta -> Seleção de página estática -> Selecione uma página"
+
+#: inc/config/option-config.php:1142
+msgid "Apply for home page only."
+msgstr "Aplicar para a página inicial."
+
+#: inc/config/option-config.php:1143
+msgid "Apply for all pages."
+msgstr "Aplicar para todas as páginas."
+
+#: inc/config/option-config.php:1151
+msgid "Enable footer widgets area."
+msgstr "Ativar rodapé área de widgets."
+
+#: inc/config/option-config.php:1157
+msgid "Footer Columns"
+msgstr "Rodapé Colunas"
+
+#: inc/config/option-config.php:1158
+msgid ""
+"Select the number of columns you would like for your footer widgets area."
+msgstr ""
+"Selecione o número de colunas que você gostaria para o seu rodapé área de "
+"widgets."
+
+#: inc/config/option-config.php:1162
+msgid "1 Column"
+msgstr "1, Coluna"
+
+#: inc/config/option-config.php:1163
+msgid "2 Columns"
+msgstr "2 Colunas"
+
+#: inc/config/option-config.php:1174
+msgid "Footer 2 Columns layout"
+msgstr "Rodapé 2 Colunas layout"
+
+#: inc/config/option-config.php:1175 inc/config/option-config.php:1185
+#: inc/config/option-config.php:1195
+msgid "Custom footer columns width"
+msgstr "Rodapé personalizado largura das colunas"
+
+#: inc/config/option-config.php:1176 inc/config/option-config.php:1186
+#: inc/config/option-config.php:1196
+msgid ""
+"Enter int numbers and sum of them must smaller or equal 16, separated by "
+"\"+\""
+msgstr ""
+"Enter int números e soma deles tem menor ou igual a 16, separados por \"+\""
+
+#: inc/config/option-config.php:1184
+msgid "Footer 3 Columns layout"
+msgstr "Rodapé do layout de 3 Colunas"
+
+#: inc/config/option-config.php:1194
+msgid "Footer 4 Columns layout"
+msgstr "Rodapé com 4 Colunas layout"
+
+#: inc/config/option-config.php:1202
+msgid "Footer Copyright"
+msgstr "Rodapé De Direitos Autorais"
+
+#: inc/config/option-config.php:1203
+msgid "Enter the copyright section text."
+msgstr "Insira a seção de direitos autorais de texto."
+
+#: inc/config/option-config.php:1209
+msgid "Enable theme author links."
+msgstr "Ativar o autor do tema links."
+
+#: inc/config/option-config.php:1216
+msgid "Custom your footer style?"
+msgstr "Personalizado a sua rodapé estilo?"
+
+#: inc/config/option-config.php:1224
+msgid "Footer Background"
+msgstr "Rodapé Fundo"
+
+#: inc/config/option-config.php:1235
+msgid "Footer Text Color"
+msgstr "Texto De Rodapé Cor"
+
+#: inc/config/option-config.php:1244
+msgid "Footer Link Color"
+msgstr "Rodapé Link Color"
+
+#: inc/config/option-config.php:1253
+msgid "Footer Link Color Hover"
+msgstr "Rodapé Cor De Link Hover"
+
+#: inc/config/option-config.php:1262
+msgid "Footer Widget Title Color"
+msgstr "Rodapé Widget Título Color"
+
+#: inc/config/option-config.php:1283
+msgid "Share coupon code email title"
+msgstr "Compartilhar o código do cupom título do email"
+
+#: inc/config/option-config.php:1284
+msgid ""
+"Available Tags: {coupon_title}, {coupon_description}, "
+"{coupon_destination_url}, {coupon_print_image_url}, {coupon_code}, "
+"{store_name}, {store_go_out_url}, {store_url}, {store_aff_url}, {home_url}, "
+"{share_email}"
+msgstr ""
+"Disponível Tags: {coupon_title}, {coupon_description}, "
+"{coupon_destination_url}, {coupon_print_image_url}, {coupon_code}, "
+"{store_name}, {store_go_out_url}, {store_url}, {store_aff_url}, {home_url}, "
+"{share_email}"
+
+#: inc/config/option-config.php:1291
+msgid "Share coupon code email template"
+msgstr "Compartilhar o código do cupom modelo de e-mail"
+
+#: inc/config/option-config.php:1292 inc/config/option-config.php:1300
+#: inc/config/option-config.php:1308
+msgid ""
+"Available Tags: {coupon_title}, {coupon_description}, "
+"{coupon_destination_url}, {coupon_print_image}, {coupon_print_image_url}, "
+"{coupon_code}, {store_name}, {store_image}, {store_go_out_url}, {store_url}, "
+"{store_aff_url}, {home_url}, {share_email}"
+msgstr ""
+"Disponível Tags: {coupon_title}, {coupon_description}, "
+"{coupon_destination_url}, {coupon_print_image}, {coupon_print_image_url}, "
+"{coupon_code}, {store_name}, {store_image}, {store_go_out_url}, {store_url}, "
+"{store_aff_url}, {home_url}, {share_email}"
+
+#: inc/config/option-config.php:1299
+msgid "Share coupon sale email template"
+msgstr "Compartilhe cupom de venda modelo de e-mail"
+
+#: inc/config/option-config.php:1307
+msgid "Share coupon print email template"
+msgstr "Cupom compartilhar imprimir e-mail modelo"
+
+#: inc/core/admin-update.php:112 inc/core/admin-update.php:113
+msgid "Auto Update"
+msgstr "Auto Update"
+
+#. Name of the theme
+#: inc/core/admin-update.php:120 inc/core/admin-update.php:121
+msgid "WP Coupon"
+msgstr "Cuponfy"
+
+#: inc/core/admin-update.php:158
+#, php-format
+msgid "Auto Update Theme- %1$s"
+msgstr "Auto Atualização Tema- %1$s"
+
+#: inc/core/admin-update.php:505
+msgid "Theme License"
+msgstr "Tema Licença"
+
+#: inc/core/admin-update.php:506
+msgid "Enter your theme license key."
+msgstr "Inserir o seu tema chave de licença."
+
+#: inc/core/admin-update.php:507
+msgid "License Key"
+msgstr "Chave De Licença"
+
+#: inc/core/admin-update.php:508
+msgid "License Action"
+msgstr "Licença Ação"
+
+#: inc/core/admin-update.php:509
+msgid "Deactivate License"
+msgstr "Desactivar Licença"
+
+#: inc/core/admin-update.php:510
+msgid "Activate License"
+msgstr "Ativar Licença"
+
+#: inc/core/admin-update.php:511 inc/core/admin-update.php:512
+#: inc/core/admin-update.php:524
+msgid "License status is unknown."
+msgstr "Status da licença é desconhecido."
+
+#: inc/core/admin-update.php:513
+msgid "Renew?"
+msgstr "Renovar?"
+
+#: inc/core/admin-update.php:514
+msgid "unlimited"
+msgstr "ilimitado"
+
+#: inc/core/admin-update.php:515
+msgid "License key is active."
+msgstr "Chave de licença está ativo."
+
+#: inc/core/admin-update.php:516
+#, php-format
+msgid "Expires %s."
+msgstr "Expira %s."
+
+#: inc/core/admin-update.php:517
+#, php-format
+msgid "You have %1$s / %2$s sites activated."
+msgstr "Você tem %1$s / %2$s sites ativado."
+
+#: inc/core/admin-update.php:518
+#, php-format
+msgid "License key expired %s."
+msgstr "Chave de licença expirou %s."
+
+#: inc/core/admin-update.php:519
+msgid "License key has expired."
+msgstr "Chave de licença tiver expirado."
+
+#: inc/core/admin-update.php:520
+msgid "License keys do not match."
+msgstr "As chaves de licença não correspondem."
+
+#: inc/core/admin-update.php:521
+msgid "License is inactive."
+msgstr "Licença está inativo."
+
+#: inc/core/admin-update.php:522
+msgid "License key is disabled."
+msgstr "Chave de licença é desativado."
+
+#: inc/core/admin-update.php:523
+msgid "Site is inactive."
+msgstr "Site está inativo."
+
+#: inc/core/admin-update.php:525
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+"Atualizando este tema irá perder quaisquer personalizações que você fez. "
+"'Cancelar' para parar, \\ \"OK\" para atualizar."
+
+#: inc/core/admin-update.php:526
+#, php-format
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</a>"
+"."
+msgstr ""
+"<strong>%1$s %2$s</strong> está disponível. <a href=\"%3$s\" "
+"class=\"jquery\" title=\"%4s\">Confira o há de  novo</a> ou <a "
+"href=\"%5$s\"%6$s>atualize agora</a>."
+
+#: inc/core/ajax.php:47 inc/core/store.php:609
+#, php-format
+msgid "%d Coupon"
+msgstr "%d Cupom"
+
+#: inc/core/ajax.php:127
+msgid "Your email has been sent successfully"
+msgstr "O seu e-mail foi enviado com sucesso"
+
+#: inc/core/ajax.php:229
+msgid "Unknown request."
+msgstr "Pedido desconhecido."
+
+#: inc/core/coupon.php:594
+msgid "N/A"
+msgstr "N/A"
+
+#: inc/core/coupon.php:1330 inc/core/coupon.php:1426
+msgid "Coupon Description:"
+msgstr "Cupom Descrição:"
+
+#: inc/core/coupon.php:1332 inc/core/coupon.php:1428
+msgid "Store:"
+msgstr "Arquivo:"
+
+#: inc/core/coupon.php:1336 inc/core/coupon.php:1432
+msgid "Click the link bellow to get deal"
+msgstr "Clique no link abaixo para obter lidar"
+
+#: inc/core/coupon.php:1337 inc/core/coupon.php:1433
+msgid "Get deal now"
+msgstr "Obter lidar agora"
+
+#: inc/core/coupon.php:1345 inc/core/coupon.php:1442
+msgid "Copy coupon code and use at checkout:"
+msgstr "Copiar o código do cupom e usar na finalização da compra:"
+
+#: inc/core/coupon.php:1348 inc/core/coupon.php:1446
+msgid "Store website:"
+msgstr "Site da loja:"
+
+#: inc/core/coupon.php:1350 inc/core/coupon.php:1449
+#, php-format
+msgid "This email was sent form %1$s"
+msgstr "Este e-mail foi enviado formulário de %1$s"
+
+#: inc/core/coupon.php:1394
+msgid "Print coupon"
+msgstr "Imprimir cupom"
+
+#: inc/core/schedule-event.php:25
+#, php-format
+msgid "Expires <span class=\"count\">(%s)</span>"
+msgstr "Expira <span class=\"contagem de\">(%s)</span>"
+
+#: inc/core/store.php:401
+msgid "Untitled"
+msgstr "Sem título"
+
+#: inc/core/term-editor.php:105 inc/core/term-editor.php:132
+#: inc/widgets/slider.php:73
+#: inc/redux-extensions/slides_v2/slides_v2/field_slides_v2.php:157
+#: inc/redux-extensions/slides_v2/slides_v2/field_slides_v2.php:216
+msgid "Description"
+msgstr "Descrição"
+
+#: inc/core/term-editor.php:107 inc/core/term-editor.php:134
+msgid ""
+"The description is not prominent by default, however some themes may show it."
+msgstr ""
+"A descrição não é destaque por padrão, no entanto, alguns temas podem "
+"mostrar isso."
+
+#: inc/metabox-addons/extra-types.php:43
+#, php-format
+msgid "%s view"
+msgstr "%s view"
+
+#: inc/metabox-addons/post-search-field.php:55
+msgid "An error has occurred. Please reload the page and try again."
+msgstr "Um erro ocorreu. Por favor, recarregue a página e tente novamente."
+
+#: inc/metabox-addons/post-search-field.php:56
+msgid "Find Posts or Pages"
+msgstr "Encontrar Posts ou Páginas"
+
+#: inc/tgmpa/tgmpa-config.php:46
+msgid "Redux Framework"
+msgstr "Redux Quadro"
+
+#: inc/tgmpa/tgmpa-config.php:52
+msgid "Breadcrumb NavXT"
+msgstr "Breadcrumb NavXT"
+
+#: inc/tgmpa/tgmpa-config.php:58
+msgid "WP Users"
+msgstr "WP Utilizadores"
+
+#: inc/tgmpa/tgmpa-config.php:65
+msgid "WPCoupon Demo Import"
+msgstr "WPCoupon Demonstração De Importação"
+
+#: inc/tgmpa/tgmpa-config.php:89
+msgid "Install Required Plugins"
+msgstr "Instalar Plugins Necessários"
+
+#: inc/tgmpa/tgmpa-config.php:90
+msgid "Install Plugins"
+msgstr "Instalar Plugins"
+
+#: inc/tgmpa/tgmpa-config.php:91
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalar o Plugin: %s"
+
+#: inc/tgmpa/tgmpa-config.php:92
+msgid "Something went wrong with the plugin API."
+msgstr "Algo deu errado com a API de plug-in."
+
+#: inc/tgmpa/tgmpa-config.php:93
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr "Este tema requer o seguinte plugin: %1$s."
+
+#: inc/tgmpa/tgmpa-config.php:94
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr "Este tema, recomenda o seguinte plugin: %1$s."
+
+#: inc/tgmpa/tgmpa-config.php:95
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr ""
+"Desculpe, mas você não tem as permissões corretas para instalar o %s plugin. "
+"Contate o administrador do site para obter ajuda sobre como obter o plugin "
+"instalado."
+
+#: inc/tgmpa/tgmpa-config.php:96
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr "O seguinte plugin necessário é actualmente inactivo: %1$s."
+
+#: inc/tgmpa/tgmpa-config.php:97
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr "O recomendado seguinte plugin é actualmente inactivo: %1$s."
+
+#: inc/tgmpa/tgmpa-config.php:98
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgstr ""
+"Desculpe, mas você não tem as permissões corretas para ativar o %s plugin. "
+"Contate o administrador do site para obter ajuda sobre como obter o plugin "
+"ativado."
+
+#: inc/tgmpa/tgmpa-config.php:99
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+"O seguinte plugin precisa ser atualizada para a sua versão mais recente para "
+"garantir a máxima compatibilidade com este tema: %1$s."
+
+#: inc/tgmpa/tgmpa-config.php:100
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgstr ""
+"Desculpe, mas você não tem as permissões corretas para atualizar o %s plugin."
+" Contate o administrador do site para obter ajuda sobre como obter o plugin "
+"atualizado."
+
+#: inc/tgmpa/tgmpa-config.php:101
+msgid "Begin installing plugin"
+msgstr "Iniciar a instalação do plugin"
+
+#: inc/tgmpa/tgmpa-config.php:102
+msgid "Begin activating plugin"
+msgstr "Comece a ativação do plugin"
+
+#: inc/tgmpa/tgmpa-config.php:103
+msgid "Return to Required Plugins Installer"
+msgstr "Voltar para Plugins Necessários Instalador"
+
+#: inc/tgmpa/tgmpa-config.php:104
+msgid "Plugin activated successfully."
+msgstr "Plugin ativado com êxito."
+
+#: inc/tgmpa/tgmpa-config.php:105
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Todos os plugins instalado e ativado com sucesso. %s"
+
+#: inc/user/user.php:179 inc/user/user.php:420 inc/user/user.php:423
+msgid "Dashboard"
+msgstr "Painel"
+
+#: inc/user/user.php:180
+msgid "Saved Coupons"
+msgstr "Salvo Cupons"
+
+#: inc/user/user.php:181
+msgid "Favorites Stores"
+msgstr "Favoritos Lojas"
+
+#: inc/user/user.php:182
+msgid "Settings"
+msgstr "Definições"
+
+#: inc/user/user.php:184
+msgid "Public profile"
+msgstr "Público de perfil"
+
+#: inc/user/user.php:225
+msgid "Recently Saved Coupons"
+msgstr "Salvo Recentemente Cupons"
+
+#: inc/user/user.php:267
+msgid "See all your saved coupons"
+msgstr "Ver todos os salvos cupons"
+
+#: inc/user/user.php:275
+msgid "It's looks like you didn't add any coupons yet."
+msgstr "It's parece que você didn't adicionar qualquer cupons ainda."
+
+#: inc/user/user.php:281
+msgid "Browse Coupons to add"
+msgstr "Procurar Cupons para adicionar"
+
+#: inc/user/user.php:302 inc/user/user.php:683
+msgid "Recent Favorite Stores"
+msgstr "Recente Lojas Favoritas"
+
+#: inc/user/user.php:322
+msgid "See all your favorite stores"
+msgstr "Ver todas as suas lojas favoritas"
+
+#: inc/user/user.php:330
+msgid "It's looks like you didn't add any stores yet."
+msgstr "It's parece que você didn't acrescentar quaisquer lojas ainda."
+
+#: inc/user/user.php:338
+msgid "Browse Stores to add"
+msgstr "Procurar Lojas para adicionar"
+
+#: inc/user/user.php:376
+msgid "Saved"
+msgstr "Salvos"
+
+#: inc/user/user.php:389
+msgid "Please login to see your saved coupons"
+msgstr "Por favor faça o login para ver sua salvo cupons"
+
+#: inc/user/user.php:398
+msgid "Favorites"
+msgstr "Favoritos"
+
+#: inc/user/user.php:411
+msgid "Please login to see your favorite stores"
+msgstr "Por favor faça o login para ver suas lojas favoritas"
+
+#: inc/user/user.php:420
+msgid "Login"
+msgstr "Login"
+
+#: inc/user/user.php:424
+msgid "Account Settings"
+msgstr "Definições De Conta"
+
+#: inc/user/user.php:425
+msgid "Sign Out"
+msgstr "Sair"
+
+#: inc/user/user.php:448
+msgid "User Name:"
+msgstr "Nome De Usuário:"
+
+#: inc/user/user.php:455
+msgid "E-mail:"
+msgstr "E-mail"
+
+#: inc/user/user.php:464
+msgid "First Name:"
+msgstr "Nome:"
+
+#: inc/user/user.php:474
+msgid "Last Name:"
+msgstr "Apelido:"
+
+#: inc/user/user.php:483
+msgid "Display Name:"
+msgstr "Nome De Exibição:"
+
+#: inc/user/user.php:490
+msgid "Website:"
+msgstr "Site:"
+
+#: inc/user/user.php:498
+msgid "Bio:"
+msgstr "Bio:"
+
+#: inc/user/user.php:631 inc/user/user.php:781
+msgid "Best coupons form your Favorite Stores"
+msgstr "Melhores cupons de formulário de suas Lojas Favoritas"
+
+#: inc/user/user.php:633 inc/user/user.php:657 inc/user/user.php:685
+msgid "View all"
+msgstr "Ver todos"
+
+#: inc/user/user.php:645
+msgid "No Coupons found! Please add more favorite stores to see this."
+msgstr ""
+"Cupons não encontrado! Por favor, adicione mais lojas favoritas para ver "
+"isso."
+
+#: inc/user/user.php:655
+msgid "Recent Saved Coupons"
+msgstr "Recente Salvo Cupons"
+
+#: inc/user/user.php:671
+msgid "No Coupons found! Please add more see this."
+msgstr "Cupons não encontrado! Por favor, adicione mais ver isso."
+
+#: inc/user/user.php:726
+msgid "No Stores found! Please add more see this."
+msgstr "As Lojas não encontrado! Por favor, adicione mais ver isso."
+
+#: inc/user/user.php:744
+msgid "Your Saved Coupons"
+msgstr "Seus cupons salvos"
+
+#: inc/user/user.php:757
+msgid "No saved coupons found ! Please add more."
+msgstr "Não salvo cupons encontrado ! Por favor, adicione mais."
+
+#: inc/user/user.php:794
+msgid "No coupons found ! Please add more favorite store to see this."
+msgstr ""
+"Cupons não encontrado ! Por favor, adicione mais favorito loja para ver isso."
+
+#: inc/user/user.php:807
+msgid "Favorite Stores"
+msgstr "Lojas Favoritas"
+
+#: inc/user/user.php:848
+msgid "No saved stores found ! Please add more."
+msgstr "Não salvo lojas ! Por favor, adicione mais."
+
+#. Base ID
+#: inc/widgets/carousel.php:12
+msgid "WPCoupon Store Carousel"
+msgstr "WPCoupon Loja Carrossel"
+
+#: inc/widgets/carousel.php:14
+msgid "Display store width Carousel"
+msgstr "Arquivo de visualização largura Carrossel"
+
+#: inc/widgets/carousel.php:210 inc/widgets/categories.php:118
+#: inc/widgets/coupons.php:269 inc/widgets/headline.php:32
+#: inc/widgets/newsletter.php:158 inc/widgets/popular-stores.php:117
+#: inc/widgets/slider.php:113
+msgid "Title:"
+msgstr "Título:"
+
+#: inc/widgets/carousel.php:217
+msgid "Featured stores only."
+msgstr "Destaque lojas só."
+
+#: inc/widgets/carousel.php:221
+msgid "Include:"
+msgstr "Include:"
+
+#: inc/widgets/carousel.php:226
+msgid "Exclude:"
+msgstr "Excluir:"
+
+#: inc/widgets/carousel.php:231
+msgid "How many stores to display ?"
+msgstr "Como muitas lojas para exibir ?"
+
+#: inc/widgets/carousel.php:236 inc/widgets/categories.php:152
+msgid "Order by:"
+msgstr "Ordem:"
+
+#: inc/widgets/carousel.php:241
+msgid "Number coupons"
+msgstr "Número de cupons"
+
+#: inc/widgets/carousel.php:242 inc/widgets/slider.php:68
+#: inc/redux-extensions/slides_v2/slides_v2/field_slides_v2.php:153
+#: inc/redux-extensions/slides_v2/slides_v2/field_slides_v2.php:212
+msgid "Title"
+msgstr "Título"
+
+#: inc/widgets/carousel.php:243
+msgid "Preserve Store ID order given in the inlcude IDs"
+msgstr "Preservar Armazenar o ID de ordem apresentada na inlcude IDs"
+
+#: inc/widgets/carousel.php:252 inc/widgets/categories.php:166
+msgid "Order:"
+msgstr "Ordem:"
+
+#: inc/widgets/carousel.php:256 inc/widgets/categories.php:170
+msgid "Desc"
+msgstr "Desc"
+
+#: inc/widgets/carousel.php:257 inc/widgets/categories.php:171
+msgid "Asc"
+msgstr "Asc"
+
+#: inc/widgets/carousel.php:269 inc/widgets/slider.php:144
+msgid "Slide speed (millisecond)"
+msgstr "Apresentação de velocidade (milisegundos)"
+
+#: inc/widgets/carousel.php:274 inc/widgets/slider.php:149
+msgid "Pagination speed (millisecond)"
+msgstr "Paginação velocidade (milisegundos)"
+
+#: inc/widgets/carousel.php:279
+msgid "Number items visible:"
+msgstr "Número de itens visíveis:"
+
+#: inc/widgets/carousel.php:289
+msgid "Number items visible on small desktop :"
+msgstr "Número de itens visíveis no pequeno ambiente de trabalho :"
+
+#: inc/widgets/carousel.php:299
+msgid "Number items visible on mobile:"
+msgstr "Número de itens visíveis no celular:"
+
+#: inc/widgets/carousel.php:310 inc/widgets/slider.php:154
+msgid "Auto play:"
+msgstr "Auto play:"
+
+#: inc/widgets/carousel.php:314 inc/widgets/carousel.php:328
+#: inc/widgets/coupons.php:303 inc/widgets/slider.php:158
+#: inc/widgets/slider.php:172
+msgid "Yes"
+msgstr "Sim"
+
+#: inc/widgets/carousel.php:315 inc/widgets/slider.php:159
+#: inc/widgets/slider.php:173
+msgid "no"
+msgstr "não"
+
+#: inc/widgets/carousel.php:324 inc/widgets/slider.php:168
+msgid "Stop on hover:"
+msgstr "Parar em foco:"
+
+#: inc/widgets/carousel.php:329 inc/widgets/coupons.php:302
+msgid "No"
+msgstr "Não"
+
+#. Base ID
+#: inc/widgets/categories.php:12
+msgid "WPCoupon Categories"
+msgstr "WPCoupon Categorias"
+
+#: inc/widgets/categories.php:14
+msgid "Display any taxonomies as categories list"
+msgstr "Exibir qualquer taxonomias como lista de categorias"
+
+#: inc/widgets/categories.php:123
+msgid "Taxonomy:"
+msgstr "Taxonomia:"
+
+#: inc/widgets/categories.php:132
+msgid "Depth:"
+msgstr "Profundidade:"
+
+#: inc/widgets/categories.php:136
+msgid "All Categories and child Categories"
+msgstr "Todas as Categorias e sub-Categorias"
+
+#: inc/widgets/categories.php:137
+msgid ""
+"All Categories displayed in flat (no indent) form (overrides hierarchical)"
+msgstr ""
+"Todas as Categorias exibidas na televisão (sem avanço) formulário (substitui "
+"hierárquica)"
+
+#: inc/widgets/categories.php:138
+msgid "Show only top level Categories"
+msgstr "Mostrar apenas as Categorias de nível superior"
+
+#: inc/widgets/categories.php:139
+msgid ""
+"Value of n (a number) specifies the depth (or level) to descend in "
+"displaying Categories"
+msgstr ""
+"O valor de n (número) especifica a profundidade (ou nível) para descer na "
+"exibição de Categorias"
+
+#: inc/widgets/categories.php:156
+msgid "Count"
+msgstr "Count"
+
+#: inc/widgets/categories.php:181 inc/widgets/popular-stores.php:121
+msgid "Number store to show:"
+msgstr "Número da loja para mostrar:"
+
+#: inc/widgets/categories.php:186
+msgid "Show count ?"
+msgstr "Mostrar contar ?"
+
+#: inc/widgets/categories.php:191 inc/widgets/popular-stores.php:133
+msgid "Number item per row:"
+msgstr "Número de item por linha:"
+
+#: inc/widgets/categories.php:288
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr "Alimentação para todos os posts arquivados em %s"
+
+#. Base ID
+#: inc/widgets/coupons.php:12
+msgid "WPCoupon Coupons"
+msgstr "WPCoupon Cupons"
+
+#: inc/widgets/coupons.php:14
+msgid "Display Coupons"
+msgstr "Visualizar Cupons"
+
+#: inc/widgets/coupons.php:96
+msgid "Latest Coupons"
+msgstr "Mais Recentes Cupons"
+
+#: inc/widgets/coupons.php:99
+msgid "Popular Coupons"
+msgstr "Popular Cupons"
+
+#: inc/widgets/coupons.php:102
+msgid "Ending Soon"
+msgstr "Terminar Em Breve"
+
+#: inc/widgets/coupons.php:126 inc/widgets/coupons.php:165
+msgid "There is no coupons! Please comeback later."
+msgstr "Não há cupons! Por favor volta mais tarde."
+
+#: inc/widgets/coupons.php:211
+msgid "There is no coupons ! Please comeback later."
+msgstr "Não há cupons ! Por favor volta mais tarde."
+
+#: inc/widgets/coupons.php:273
+msgid "Number coupons to show:"
+msgstr "Número de cupons para mostrar:"
+
+#: inc/widgets/coupons.php:277
+msgid "Excerpt length:"
+msgstr "Excerto duração:"
+
+#: inc/widgets/coupons.php:281
+msgid "Excerpt length if hide thumbnails:"
+msgstr "Trecho de comprimento de se ocultar miniaturas:"
+
+#: inc/widgets/coupons.php:285
+msgid "Box layout:"
+msgstr "Layout da caixa:"
+
+#: inc/widgets/coupons.php:298
+msgid "Show paging:"
+msgstr "Mostrar paginação:"
+
+#: inc/widgets/coupons.php:313
+msgid "Do not show expired coupons."
+msgstr "Não mostrar expirado cupons."
+
+#: inc/widgets/coupons.php:319
+msgid "Hide latest coupons tab"
+msgstr "Ocultar mais recentes cupons tab"
+
+#: inc/widgets/coupons.php:323
+msgid "Show popular tab"
+msgstr "Mostrar guia popular"
+
+#: inc/widgets/coupons.php:327
+msgid "Show ending tab"
+msgstr "Mostrar terminando tab"
+
+#. Base ID
+#: inc/widgets/headline.php:12
+msgid "WPCoupon Headline"
+msgstr "WPCoupon Título"
+
+#: inc/widgets/headline.php:14
+msgid "Display a headline"
+msgstr "Exibir uma manchete"
+
+#: inc/widgets/headline.php:37
+msgid "Heading level"
+msgstr "Título"
+
+#. Base ID
+#: inc/widgets/newsletter.php:13
+msgid "WPCoupon Newsletter"
+msgstr "WPCoupon Newsletter"
+
+#: inc/widgets/newsletter.php:15
+msgid "Display newsletter box"
+msgstr "Apresentar boletim de caixa"
+
+#: inc/widgets/newsletter.php:66
+msgid "Your email"
+msgstr "O seu e-mail"
+
+#: inc/widgets/newsletter.php:68
+msgid "Subscribe"
+msgstr "Assinar"
+
+#: inc/widgets/newsletter.php:163
+msgid "Mailchimp action:"
+msgstr "Mailchimp ação:"
+
+#: inc/widgets/newsletter.php:171
+msgid "Before form"
+msgstr "Antes da forma"
+
+#: inc/widgets/newsletter.php:176
+msgid "After form"
+msgstr "Depois de formulário"
+
+#: inc/widgets/newsletter.php:181
+msgid "facebook URL:"
+msgstr "facebook URL:"
+
+#: inc/widgets/newsletter.php:185
+msgid "twitter URL:"
+msgstr "URL do twitter:"
+
+#: inc/widgets/newsletter.php:189
+msgid "linkedin URL:"
+msgstr "linkedin URL:"
+
+#: inc/widgets/newsletter.php:193
+msgid "google URL:"
+msgstr "google URL:"
+
+#: inc/widgets/newsletter.php:197
+msgid "flickr URL:"
+msgstr "flickr URL:"
+
+#: inc/widgets/newsletter.php:201
+msgid "youtube URL:"
+msgstr "URL youtube:"
+
+#: inc/widgets/newsletter.php:205
+msgid "Instagram URL:"
+msgstr "Instagram URL:"
+
+#: inc/widgets/newsletter.php:209
+msgid "Social link target"
+msgstr "Social destino do link"
+
+#: inc/widgets/newsletter.php:211
+msgid "_blank"
+msgstr "_blank"
+
+#: inc/widgets/newsletter.php:212
+msgid "_self"
+msgstr "_self"
+
+#: inc/widgets/newsletter.php:213
+msgid "_parent"
+msgstr "_parent"
+
+#: inc/widgets/newsletter.php:214
+msgid "_top"
+msgstr "_top"
+
+#. Base ID
+#: inc/widgets/popular-stores.php:12
+msgid "WPCoupon Popular Stores"
+msgstr "WPCoupon Populares Lojas"
+
+#: inc/widgets/popular-stores.php:13
+msgid "Display Popular Stores"
+msgstr "Vídeo Populares Lojas"
+
+#: inc/widgets/popular-stores.php:125
+msgid "Comma-separated of term ids to include:"
+msgstr "Separados por vírgulas de termo de ids para incluir:"
+
+#: inc/widgets/popular-stores.php:129
+msgid "Comma-separated of term ids to exclude:"
+msgstr "Separados por vírgulas de termo de ids para excluir:"
+
+#. Base ID
+#: inc/widgets/sidebar.php:12
+msgid "WPCoupon Sidebar"
+msgstr "WPCoupon Lateral"
+
+#: inc/widgets/sidebar.php:14
+msgid "Display a Sidebar"
+msgstr "Exibir uma barra Lateral"
+
+#: inc/widgets/sidebar.php:39
+msgid "Sidebar"
+msgstr "Lateral"
+
+#. Base ID
+#: inc/widgets/slider.php:12
+msgid "WPCoupon Slider"
+msgstr "WPCoupon Controle Deslizante"
+
+#: inc/widgets/slider.php:14
+msgid "Display a Slider"
+msgstr "Apresentada uma barra de deslocamento"
+
+#: inc/widgets/slider.php:85
+msgid "Close"
+msgstr "Fechar"
+
+#: inc/widgets/slider.php:125
+msgid "Add item"
+msgstr "Adicionar item"
+
+#: inc/woocomerce/woocomerce.php:58
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr "Home"
+
+#: inc/woocomerce/woocomerce.php:65
+msgctxt "breadcrumb"
+msgid "Shop"
+msgstr "Loja"
+
+#: inc/metabox/includes/CMB2.php:129
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr "Metabox configuração é necessária para ter um parâmetro ID"
+
+#: inc/metabox/includes/CMB2.php:418
+msgid "Click to toggle"
+msgstr "Clique para alternar"
+
+#: inc/metabox/includes/CMB2_Ajax.php:71
+msgid "Please Try Again"
+msgstr "Por Favor, Tente Novamente"
+
+#: inc/metabox/includes/CMB2_Ajax.php:173
+msgid "Remove Embed"
+msgstr "Remover Incorporar"
+
+#: inc/metabox/includes/CMB2_Ajax.php:177
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr "Não oEmbed Resultados Encontrados para %s. Ver mais informações"
+
+#: inc/metabox/includes/CMB2_Field.php:1186
+msgid "Add Group"
+msgstr "Adicionar Grupo"
+
+#: inc/metabox/includes/CMB2_Field.php:1187
+msgid "Remove Group"
+msgstr "Remover O Grupo"
+
+#: inc/metabox/includes/CMB2_Field.php:1209
+#: inc/metabox/includes/CMB2_Field.php:1213
+msgid "None"
+msgstr "Nenhum"
+
+#: inc/metabox/includes/CMB2_Field.php:1269
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr "Desculpe, este campo não tem um cmb_id especificado."
+
+#: inc/metabox/includes/CMB2_Field_Display.php:408
+#: inc/metabox/includes/CMB2_JS.php:139
+#: inc/metabox/includes/types/CMB2_Type_File_Base.php:75
+msgid "File:"
+msgstr "Ficheiro:"
+
+#: inc/metabox/includes/CMB2_hookup.php:143
+msgid ""
+"Term Metadata is a WordPress > 4.4 feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+"Termo Metadados é um WordPress > 4.4 recurso. Por favor, atualize o seu "
+"WordPress instalar."
+
+#: inc/metabox/includes/CMB2_hookup.php:147
+msgid "Term metaboxes configuration requires a 'taxonomies' parameter"
+msgstr ""
+"Termo metaboxes configuração requer um 'taxonomias' parametro]]![[Clear"
+
+#: inc/metabox/includes/CMB2_JS.php:86 inc/metabox/includes/CMB2_JS.php:119
+msgid "Clear"
+msgstr "Selecione Cor"
+
+#: inc/metabox/includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr "Cor Atual"
+
+#: inc/metabox/includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr "mm/dd/yy"
+
+#: inc/metabox/includes/CMB2_JS.php:109
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr "Domingo, Segunda, Terça, Quarta, Quinta, Sexta, Sábado"
+
+#: inc/metabox/includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr "Su, Mo, Tu, We, Th, Fr, Sa"
+
+#: inc/metabox/includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr "Dom, Seg, Ter, Qua, Qui, Sex, Sáb"
+
+#: inc/metabox/includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+"De Janeiro, Fevereiro, Março, Abril, Maio, Junho, Julho, Agosto, Setembro, "
+"Outubro, Novembro, Dezembro"
+
+#: inc/metabox/includes/CMB2_JS.php:113
+msgid ""
+"January, February, March, April, May, June, July, August, September, October,"
+" November, December"
+msgstr "Jan, Fev, Mar, Abr, Mai, Jun, Jul, Ago, Set, Out, Nov, Dez"
+
+#: inc/metabox/includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr "Next"
+
+#: inc/metabox/includes/CMB2_JS.php:115
+msgid "Next"
+msgstr "Prev"
+
+#: inc/metabox/includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr "Hoje"
+
+#: inc/metabox/includes/CMB2_JS.php:117
+msgid "Today"
+msgstr "Feito"
+
+#: inc/metabox/includes/CMB2_JS.php:118 inc/metabox/includes/CMB2_JS.php:128
+msgid "Done"
+msgstr "Escolher Hora]]![[Hora]]![[H"
+
+#: inc/metabox/includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr "Minutos"
+
+#: inc/metabox/includes/CMB2_JS.php:123
+msgid "Time"
+msgstr "Segundo"
+
+#: inc/metabox/includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr "Agora"
+
+#: inc/metabox/includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr "hh:mm TT"
+
+#: inc/metabox/includes/CMB2_JS.php:126
+msgid "Second"
+msgstr "Use este ficheiro"
+
+#: inc/metabox/includes/CMB2_JS.php:127
+msgid "Now"
+msgstr "Use estes arquivos"
+
+#: inc/metabox/includes/CMB2_JS.php:129
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson."
+"com/examples/timepicker/"
+msgid "hh:mm TT"
+msgstr "Remover Imagem"
+
+#: inc/metabox/includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr "Download"
+
+#: inc/metabox/includes/CMB2_JS.php:136
+msgid "Use these files"
+msgstr "Selecionar / Cancelar A Seleção De Todos"
+
+#: inc/metabox/includes/CMB2_JS.php:137
+#: inc/metabox/includes/types/CMB2_Type_File_Base.php:61
+msgid "Remove Image"
+msgstr "Adicionar Linha"
+
+#: inc/metabox/includes/CMB2_JS.php:140
+#: inc/metabox/includes/types/CMB2_Type_File_Base.php:78
+msgid "Download"
+msgstr "Não oEmbed Resultados Encontrados para %s. Ver mais informações em %s"
+
+#: inc/metabox/includes/CMB2_JS.php:141
+msgid "Select / Deselect All"
+msgstr "Salvar"
+
+#: inc/metabox/includes/CMB2_Types.php:194
+msgid "Add Row"
+msgstr "Ícone De Pesquisa"
+
+#: inc/metabox/includes/helper-functions.php:93
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at %s"
+msgstr "Adicionar ou faça o Upload do Arquivo"
+
+#: inc/metabox/includes/helper-functions.php:279
+msgid "Save"
+msgstr "Adicionar ou Upload de Arquivos"
+
+#: inc/metabox-addons/icon/icon.php:72
+msgid "Search Icon"
+msgstr "Não termos"
+
+#: inc/metabox/includes/types/CMB2_Type_File.php:36
+msgid "Add or Upload File"
+msgstr "Adicione ou Envie Arquivo"
+
+#: inc/metabox/includes/types/CMB2_Type_File_List.php:36
+msgid "Add or Upload Files"
+msgstr "Adicione ou Envie Arquivos"
+
+#: inc/metabox/includes/types/CMB2_Type_Taxonomy_Multicheck.php:27
+#: inc/metabox/includes/types/CMB2_Type_Taxonomy_Radio.php:25
+msgid "No terms"
+msgstr "Upload"
+
+#: inc/redux-extensions/slides_v2/slides_v2/field_slides_v2.php:74
+msgid "Slide"
+msgstr "Excluir"
+
+#: inc/redux-extensions/slides_v2/slides_v2/field_slides_v2.php:79
+#: inc/redux-extensions/slides_v2/slides_v2/field_slides_v2.php:182
+#, php-format
+msgid "New %s"
+msgstr "Adicione %s"
+
+#: inc/redux-extensions/slides_v2/slides_v2/field_slides_v2.php:132
+#: inc/redux-extensions/slides_v2/slides_v2/field_slides_v2.php:197
+msgid "Upload"
+msgstr "Um advanded WordPress Cupom e Lidar Theme"
+
+#: inc/redux-extensions/slides_v2/slides_v2/field_slides_v2.php:175
+#: inc/redux-extensions/slides_v2/slides_v2/field_slides_v2.php:232
+msgid "Delete"
+msgstr "Remover"
+
+#: inc/redux-extensions/slides_v2/slides_v2/field_slides_v2.php:235
+#, php-format
+msgid "Add %s"
+msgstr "Adicionar"
+
+#. Description of the theme
+msgid "An advanded WordPress Coupon and Deal Theme"
+msgstr "http://www.famethemes.com"
+
+#. URI of the theme
+msgid "https://www.famethemes.com/themes/coupon-wp/"
+msgstr "https://www.famethemes.com/themes/coupon-wp/"
+
+#. Author of the theme
+msgid "famethemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.famethemes.com"
+msgstr "http://www.famethemes.com"
